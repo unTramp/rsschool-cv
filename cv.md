@@ -48,4 +48,10 @@ Example of our pet-project includes the usage of github: https://github.com/unTr
 
 # Education
 
+Higher education: Moscow Humanitarian Technical Academy
+
+Online cources: Lynda, Treehouse, LetsBuildThatApp, Alex Skutarenko, Raywenderlich
+
+Resources: Stackoverflow
+
 # English
