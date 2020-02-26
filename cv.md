@@ -24,6 +24,22 @@ I really enjoy coding and want to work and keep growing in the mobile/backend fi
 
 # Code examples
 
+    class ExpertiseRealmObject: Object {
+        @objc dynamic var title: String = "Default"
+        @objc dynamic var expert: String = "Expert"
+        let items = List<ExpertiseItemRealmObject>()
+
+        func toExpertise() -> Expertise {
+            let expertise = Expertise()
+            expertise.title = self.title
+            for itemRealmObject in self.items {
+                let item = itemRealmObject.toExpertiseItem()
+                expertise.items.append(item)
+            }
+            return expertise
+        }
+    }
+
 # Experience
 
 # Education
