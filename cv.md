@@ -12,6 +12,16 @@ I really enjoy coding and want to work and keep growing in the mobile/backend fi
 
 # Skills
 
+* Swift
+* Objective-C
+* MVC, MVVM
+* Cocoa Pods
+* Alamofire, SwiftyJSON, Snapkit
+* Firebase, Realm
+* DJANGO
+* Figma
+* UI
+
 # Code examples
 
 # Experience
