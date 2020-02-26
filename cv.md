@@ -42,6 +42,10 @@ I really enjoy coding and want to work and keep growing in the mobile/backend fi
 
 # Experience
 
+My expirience is based on online cources and lectures and recomendations from a good friend of mine. 
+
+Example of our pet-project includes the usage of github: https://github.com/unTramp/Cards
+
 # Education
 
 # English
