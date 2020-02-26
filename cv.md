@@ -55,3 +55,7 @@ Online cources: Lynda, Treehouse, LetsBuildThatApp, Alex Skutarenko, Raywenderli
 Resources: Stackoverflow
 
 # English
+
+Pre-Intermediate / Intermediate level. 
+
+I had over 30 hours of skype lessons with native speakers and over 90 hours with a tutor setting aside school education and higher education.
